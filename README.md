@@ -13,8 +13,9 @@
 - Software Development & System Design  
 
 ## 📫 Get in Touch  
-- [LinkedIn](#https://www.linkedin.com/in/michael-kimollo/)  
-- [GitHub](#https://github.com/Mickamwamba)  
+- [LinkedIn](https://www.linkedin.com/in/michael-kimollo/)  
+- [GitHub](https://github.com/Mickamwamba)
+- [Medium] (https://medium.com/@kimollomick17)
 - [Personal Website](https://hype.co.tz/)  
 
 Let's build something impactful! ✨  
