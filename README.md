@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hey, I'm Michael Kimollo! 👋  
 
-<!--
-**Mickamwamba/Mickamwamba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🇹🇿 🇺🇸 I'm a Software Engineer and Data Scientist, originally from Tanzania and currently based in the United States.  
 
-Here are some ideas to get you started:
+💼 I work at **Collins Aerospace** as a **Software Engineer II**.  
+🎓 I hold an **MSc. in Data Science** from the **University of North Florida**.  
+🚀 I'm passionate about **Algorithms, Predictive Modeling, and Machine Learning**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Interests  
+- Python, R, C, C#  
+- Machine Learning, Bayesian Modeling, Predictive Analytics  
+- Data Engineering, Big Data, and Cloud Computing  
+- Software Development & System Design  
+
+## 📫 Get in Touch  
+- [LinkedIn](#https://www.linkedin.com/in/michael-kimollo/)  
+- [GitHub](#https://github.com/Mickamwamba)  
+- [Personal Website](https://hype.co.tz/)  
+
+Let's build something impactful! ✨  
